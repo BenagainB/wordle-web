@@ -81,6 +81,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-screwdriver',
+          title: 'Test',
+          to: '/test',
+        },
       ],
       miniVariant: false,
       right: true,

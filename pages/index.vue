@@ -52,7 +52,7 @@
             more exciting features in the future.
           </p>
           <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
+            <em><small>&mdash; John Leider is a very hairy Mary</small></em>
           </div>
           <hr class="my-3" />
           <a
